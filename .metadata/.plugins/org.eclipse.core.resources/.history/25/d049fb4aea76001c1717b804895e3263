@@ -1,0 +1,30 @@
+package data;
+
+import org.lwjgl.opengl.Display;
+import static helpers.Artist.*;
+
+public class Boot {
+	
+	
+	
+	public static void main(String[] args) {
+		
+		//Frame frame = new Frame();
+		//frame.show();
+		beginSession();
+		
+		TileGrid tileGrid = new TileGrid(15,15);
+		Brush brush = new Brush(tileGrid);
+		UI ui = new UI(brush, tileGrid);
+		
+		while(!Display.isCloseRequested()) {
+			ui.draw();
+			tileGrid.draw();
+			brush.update();
+			ui.updateLater();
+			Display.update();
+			Display.sync(60);
+		}
+		Display.destroy();
+	}
+}

@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Guido\Documents\Programming\Java\Sheet Simulator 2022\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+4261795468.index
+3429007733.index
