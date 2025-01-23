@@ -33,7 +33,11 @@ Il programma è stato progettato per essere semplice e intuitivo, fornendo strum
 ---
 
 ## Screenshot
-![Esempio di pattern](/Sheet Sim/src/exports/11.png)
+
+<p align="center">
+  <img src="/examples/11.png" alt="Esempio di pattern" width="45%" style="display:inline-block; margin-right: 10px;">
+  <img src="/examples/11_bp.png" alt="Relativo blueprint" width="45%" style="display:inline-block;">
+</p>
 
 ---
 
