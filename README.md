@@ -1,7 +1,7 @@
-# Pattern Blanket Generator
+# Blanket Pattern Generator
 
 ## Descrizione
-**Pattern Blanket Generator** è un'applicazione scritta in Java nata dall'esigenza di mia mamma, che desiderava realizzare una coperta con un numero specifico di quadrati verdi e neri, ma non sapeva come assemblarli in modo armonioso. Questo tool consente di progettare e creare una coperta personalizzata, generando sia una foto del risultato finale che un blueprint con griglia per facilitare l'assemblaggio manuale.
+**Blanket Pattern Generator** è un'applicazione scritta in Java nata dall'esigenza di mia mamma, che desiderava realizzare una coperta con un numero specifico di quadrati verdi e neri, ma non sapeva come assemblarli in modo armonioso. Questo tool consente di progettare e creare una coperta personalizzata, generando sia una foto del risultato finale che un blueprint con griglia per facilitare l'assemblaggio manuale.
 
 Il programma è stato progettato per essere semplice e intuitivo, fornendo strumenti utili per la personalizzazione e il controllo del design della coperta.
 
